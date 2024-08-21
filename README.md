@@ -21,3 +21,8 @@ My name is Rustam. Welcome! I am a Backend Developer. ✌️
 • Hibernate - Efficiently managing data persistence and ORM with Hibernate, seamlessly integrating with Spring Boot.
 
 • SourcePawn - Scripting and customizing gameplay experiences in the Source engine environment.
+
+🔥 Coding Streak: 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dev-suleymanov&theme=dark&background=000000)](https://git.io/streak-stats)
+
