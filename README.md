@@ -41,9 +41,8 @@
 
 **📬 Contact Me:**
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
 - [Telegram](https://t.me/devsuleymanov)
-- [Email](mailto:dev.suleymanov@gmail.com)
+- [Email](dev.suleymanov@gmail.com)
 
 **🚀 Current Projects:**
 
