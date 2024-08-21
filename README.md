@@ -42,7 +42,7 @@
 **📬 Contact Me:**
 
 - [Telegram](https://t.me/devsuleymanov)
-- [Email](mailto:dev.suleymanov@gmail.com?subject=Hello%20Rustam&body=I%20would%20like%20to%20discuss...)
+- [Email](https://mail.google.com/mail/?view=cm&fs=1&to=dev.suleymanov@gmail.com)
 
 **🚀 Current Projects:**
 
