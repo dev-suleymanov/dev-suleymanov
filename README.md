@@ -22,7 +22,10 @@ My name is Rustam. Welcome! I am a Backend Developer. ✌️
 
 • SourcePawn - Scripting and customizing gameplay experiences in the Source engine environment.
 
-🔥 Coding Streak: 
+🔥 My Stats: 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dev-suleymanov&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dev-suleymanov)](https://git.io/streak-stats)
 
+📊 Top Languages:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-suleymanov)](https://github.com/anuraghazra/github-readme-stats)
