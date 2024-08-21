@@ -46,4 +46,4 @@
 
 **🚀 Current Projects:**
 
-- **Project Name**: Brief description of what you’re working on or aiming to achieve.
+• **[Lezgi Numbers]([https://link-to-project.com](https://github.com/LekiTech/lezgi-numbers-java))**  
