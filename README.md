@@ -41,9 +41,9 @@
 
 **📬 Contact Me:**
 
-- [Telegram](https://t.me/devsuleymanov)
-- [Email](https://mail.google.com/mail/?view=cm&fs=1&to=dev.suleymanov@gmail.com)
+• [Telegram](https://t.me/devsuleymanov)
+• [Email](https://mail.google.com/mail/?view=cm&fs=1&to=dev.suleymanov@gmail.com)
 
 **🚀 Current Projects:**
 
-• **[Lezgi Numbers]([https://link-to-project.com](https://github.com/LekiTech/lezgi-numbers-java))**  
+• **[Lezgi Numbers](https://github.com/LekiTech/lezgi-numbers-java)**  
