@@ -37,6 +37,6 @@
 
 • **[Email](https://mail.google.com/mail/?view=cm&fs=1&to=dev.suleymanov@gmail.com)**
 
-**🚀 Current Projects:**
+**🚀 My Projects:**
 
 • **[Lezgi Numbers](https://github.com/LekiTech/lezgi-numbers-java)**  
