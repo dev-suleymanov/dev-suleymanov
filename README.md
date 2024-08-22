@@ -31,14 +31,6 @@
 • **SourcePawn**  
   Scripting and customizing gameplay experiences in the Source engine environment.
 
-**🔥 My Stats:**
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dev-suleymanov)](https://git.io/streak-stats)
-
-**📊 Top Languages:**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-suleymanov)](https://github.com/anuraghazra/github-readme-stats)
-
 **📬 Contact Me:**
 
 • **[Telegram](https://t.me/dev_suleymanov)**
