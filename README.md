@@ -33,9 +33,7 @@
 
 **📬 Contact Me:**
 
-• **[Telegram](https://t.me/dev_suleymanov)**
-
-• **[Email](https://mail.google.com/mail/?view=cm&fs=1&to=dev.suleymanov@gmail.com)**
+• **[Telegram](https://t.me/dev_suleymanov)** • **[Email](https://mail.google.com/mail/?view=cm&fs=1&to=dev.suleymanov@gmail.com)**
 
 **🚀 My Projects:**
 
