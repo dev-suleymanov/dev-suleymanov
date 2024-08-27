@@ -37,4 +37,4 @@
 
 **🚀 My Projects:**
 
-• **[Lezgi Numbers](https://github.com/LekiTech/lezgi-numbers-java)**  
+• **[Lezgi Numbers](https://github.com/LekiTech/lezgi-numbers-java)** • **[Dream Job](https://github.com/dev-suleymanov/job4j_dreamjob)**  
